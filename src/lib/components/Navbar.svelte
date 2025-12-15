@@ -25,16 +25,16 @@
 
         <!-- Links -->
         <div class="hidden md:flex items-center gap-8 text-sm font-medium text-gray-300">
-            <a href="#features" class="hover:text-white transition-colors">Features</a>
-            <a href="#modules" class="hover:text-white transition-colors">Modules</a>
-            <a href="#industries" class="hover:text-white transition-colors">Industries</a>
-            <a href="#pricing" class="hover:text-white transition-colors">Pricing</a>
-            <a href="#support" class="hover:text-white transition-colors">Support</a>
+            <a href="#features" class="hover:text-white transition-colors">Karakteristike</a>
+            <a href="#modules" class="hover:text-white transition-colors">Moduli</a>
+            <a href="#industries" class="hover:text-white transition-colors">Industrije</a>
+            <a href="#pricing" class="hover:text-white transition-colors">Cijene</a>
+            <a href="#support" class="hover:text-white transition-colors">Podrška</a>
         </div>
 
         <!-- CTA -->
         <a href="#demo" class="hidden md:flex items-center gap-1 text-sm font-medium text-white hover:text-[var(--color-brand-primary)] transition-colors">
-            Free Demo
+            Besplatna demo
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M5 12h14M12 5l7 7-7 7"/>
             </svg>

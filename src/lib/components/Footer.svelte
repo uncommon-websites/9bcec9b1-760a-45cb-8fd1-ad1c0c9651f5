@@ -2,10 +2,10 @@
     <div class="container mx-auto px-6">
         <!-- CTA Section -->
         <div class="flex flex-col items-center text-center mb-24">
-            <h2 class="text-4xl md:text-5xl font-bold mb-6 tracking-tight">Ready to automate<br>your business?</h2>
-            <p class="text-gray-400 mb-8 max-w-xl">Join hundreds of restaurants and retail businesses across Montenegro reducing costs and eliminating manual errors with e-firma.</p>
+            <h2 class="text-4xl md:text-5xl font-bold mb-6 tracking-tight">Spremni da automatizirate<br>vaše poslovanje?</h2>
+            <p class="text-gray-400 mb-8 max-w-xl">Pridružite se stotinama restorana i maloprodajnih objekata širom Crne Gore koji smanjuju troškove i eliminišu greške sa e-firma.</p>
             <button class="bg-[var(--color-brand-primary)] hover:bg-[var(--color-brand-primary-hover)] text-black px-8 py-3 rounded-full font-medium transition-colors flex items-center gap-2">
-                Start Free Trial
+                Započni besplatnu probu
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M5 12h14M12 5l7 7-7 7"/>
                 </svg>
@@ -29,53 +29,53 @@
             </div>
             
             <div>
-                <h4 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-4">Modules</h4>
+                <h4 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-4">Moduli</h4>
                 <ul class="space-y-3 text-sm text-gray-400">
-                    <li><a href="#" class="hover:text-white">Inventory Management</a></li>
-                    <li><a href="#" class="hover:text-white">Automated Invoicing</a></li>
-                    <li><a href="#" class="hover:text-white">Order Management</a></li>
-                    <li><a href="#" class="hover:text-white">Financial Reporting</a></li>
-                    <li><a href="#" class="hover:text-white">Multi-location Sync</a></li>
-                    <li><a href="#" class="hover:text-white">Integration Hub</a></li>
+                    <li><a href="#" class="hover:text-white">Upravljanje zalihama</a></li>
+                    <li><a href="#" class="hover:text-white">Automatsko fakturisanje</a></li>
+                    <li><a href="#" class="hover:text-white">Upravljanje narudžbama</a></li>
+                    <li><a href="#" class="hover:text-white">Finansijski izvještaji</a></li>
+                    <li><a href="#" class="hover:text-white">Sinhronizacija lokacija</a></li>
+                    <li><a href="#" class="hover:text-white">Integracioni centar</a></li>
                 </ul>
             </div>
 
             <div>
-                <h4 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-4">Industries</h4>
+                <h4 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-4">Industrije</h4>
                 <ul class="space-y-3 text-sm text-gray-400">
-                    <li><a href="#" class="hover:text-white">Restaurants</a></li>
-                    <li><a href="#" class="hover:text-white">Cafes & Bars</a></li>
-                    <li><a href="#" class="hover:text-white">Retail Stores</a></li>
-                    <li><a href="#" class="hover:text-white">Wholesale</a></li>
-                    <li><a href="#" class="hover:text-white">Multi-location</a></li>
+                    <li><a href="#" class="hover:text-white">Restorani</a></li>
+                    <li><a href="#" class="hover:text-white">Kafići i barovi</a></li>
+                    <li><a href="#" class="hover:text-white">Maloprodajni objekti</a></li>
+                    <li><a href="#" class="hover:text-white">Veleprodaja</a></li>
+                    <li><a href="#" class="hover:text-white">Više lokacija</a></li>
                 </ul>
             </div>
 
             <div>
-                <h4 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-4">Company</h4>
+                <h4 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-4">Kompanija</h4>
                 <ul class="space-y-3 text-sm text-gray-400">
-                    <li><a href="#" class="hover:text-white">About</a></li>
-                    <li><a href="#" class="hover:text-white">Careers</a></li>
-                    <li><a href="#" class="hover:text-white">Contact</a></li>
+                    <li><a href="#" class="hover:text-white">O nama</a></li>
+                    <li><a href="#" class="hover:text-white">Karijere</a></li>
+                    <li><a href="#" class="hover:text-white">Kontakt</a></li>
                 </ul>
             </div>
 
             <div>
-                <h4 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-4">Support</h4>
+                <h4 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-4">Podrška</h4>
                 <ul class="space-y-3 text-sm text-gray-400">
-                    <li><a href="#" class="hover:text-white">Help Center</a></li>
-                    <li><a href="#" class="hover:text-white">24/7 Support</a></li>
-                    <li><a href="#" class="hover:text-white">Training</a></li>
-                    <li><a href="#" class="hover:text-white">System Status</a></li>
+                    <li><a href="#" class="hover:text-white">Centar za pomoć</a></li>
+                    <li><a href="#" class="hover:text-white">24/7 podrška</a></li>
+                    <li><a href="#" class="hover:text-white">Obuka</a></li>
+                    <li><a href="#" class="hover:text-white">Status sistema</a></li>
                 </ul>
             </div>
 
             <div>
-                <h4 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-4">Resources</h4>
+                <h4 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-4">Resursi</h4>
                 <ul class="space-y-3 text-sm text-gray-400">
                     <li><a href="#" class="hover:text-white">Blog</a></li>
-                    <li><a href="#" class="hover:text-white">Case Studies</a></li>
-                    <li><a href="#" class="hover:text-white">ROI Calculator</a></li>
+                    <li><a href="#" class="hover:text-white">Studije slučaja</a></li>
+                    <li><a href="#" class="hover:text-white">ROI kalkulator</a></li>
                 </ul>
             </div>
         </div>
@@ -83,9 +83,9 @@
         <div class="flex flex-col md:flex-row justify-between items-center pt-8 border-t border-white/10 text-xs text-gray-500">
             <p>© e-firma, 2024 • e-firma.me</p>
             <div class="flex gap-6 mt-4 md:mt-0">
-                <a href="#" class="hover:text-white">Terms of use</a>
-                <a href="#" class="hover:text-white">Privacy policy</a>
-                <a href="#" class="hover:text-white">Cookies</a>
+                <a href="#" class="hover:text-white">Uslovi korištenja</a>
+                <a href="#" class="hover:text-white">Politika privatnosti</a>
+                <a href="#" class="hover:text-white">Kolačići</a>
             </div>
         </div>
     </div>
