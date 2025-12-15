@@ -276,21 +276,20 @@
                             
                             <div class="relative z-10">
                                 <div class="flex items-center gap-4 mb-6">
-                                    <div class="text-white font-bold text-2xl tracking-tight">Restaurant Porto</div>
-                                    <div class="w-8 h-8 rounded-full bg-[var(--color-brand-primary)] flex items-center justify-center text-black font-bold">+</div>
-                                    <div class="flex items-center gap-2 text-white font-semibold text-xl tracking-tight">
-                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <rect x="3" y="3" width="18" height="18" rx="2" stroke="white" stroke-width="2"/>
-                                            <path d="M8 12h8M12 8v8" stroke="white" stroke-width="2" stroke-linecap="round"/>
-                                        </svg>
-                                        e-firma
-                                    </div>
+                                    <div class="text-[var(--color-brand-primary)] font-bold text-lg tracking-tight">Vlasnik restorana</div>
                                 </div>
-                                <h3 class="text-3xl font-bold text-white mb-4 max-w-md">
-                                    Kako je Restaurant Porto smanjio troškove za 35% i eliminisao greške u zalihama
+                                <h3 class="text-3xl font-bold text-white mb-6 max-w-2xl leading-tight">
+                                    "Ubrzao sam proces naručivanja robe za 70% zahvaljujući automatskom praćenju stanja robe u magacinu. Spriječio sam gomilanje robe i eliminisao situacije kada nam nešto ponestane."
                                 </h3>
-                                <div class="w-10 h-10 rounded-full bg-white/10 backdrop-blur-md border border-white/20 flex items-center justify-center text-white group-hover:bg-white group-hover:text-black transition-colors">
-                                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                                <div class="flex items-center gap-6 text-sm">
+                                    <div class="flex items-center gap-2">
+                                        <div class="w-2 h-2 rounded-full bg-[var(--color-brand-primary)]"></div>
+                                        <span class="text-gray-400">70% brže naručivanje</span>
+                                    </div>
+                                    <div class="flex items-center gap-2">
+                                        <div class="w-2 h-2 rounded-full bg-[var(--color-brand-primary)]"></div>
+                                        <span class="text-gray-400">Nula grešaka u zalihama</span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -298,35 +297,33 @@
                         <!-- Smaller Cards -->
                         <div class="space-y-6">
                             <!-- Card 2 -->
-                            <div class="bg-[#0A0A0A] rounded-3xl p-8 relative overflow-hidden group h-[240px] flex flex-col justify-end">
+                            <div class="bg-[#0A0A0A] rounded-3xl p-8 relative overflow-hidden group min-h-[240px] flex flex-col justify-between">
                                 <div class="absolute inset-0 opacity-20">
                                     <img src="/generated/image-happy-restaurant-staff-collaborating-wit-1765807954524-3.webp" alt="Team" class="w-full h-full object-cover" />
                                 </div>
                                 <div class="absolute inset-0 bg-gradient-to-br from-teal-900/60 to-black"></div>
                                 <div class="relative z-10">
-                                    <p class="text-white text-sm mb-2 font-medium">Café Central</p>
-                                    <p class="text-gray-400 text-xs">3 lokacije sinhronizovane</p>
+                                    <p class="text-[var(--color-brand-primary)] text-xs font-bold uppercase tracking-wider mb-3">Vlasnik maloprodaje</p>
+                                    <p class="text-white text-lg font-semibold leading-snug">"Poboljšao sam efikasnost unosa ulazne robe za 80% zahvaljujući automatskom unosu faktura."</p>
                                 </div>
-                                <div class="relative z-10 flex justify-end">
-                                    <div class="w-10 h-10 rounded-full bg-white/10 backdrop-blur-md border border-white/20 flex items-center justify-center text-white group-hover:bg-white group-hover:text-black transition-colors">
-                                        <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
-                                    </div>
+                                <div class="relative z-10 flex items-center gap-2 text-xs text-gray-400">
+                                    <div class="w-1.5 h-1.5 rounded-full bg-[var(--color-brand-primary)]"></div>
+                                    <span>80% brži unos</span>
                                 </div>
                             </div>
                             <!-- Card 3 -->
-                            <div class="bg-[#0A0A0A] rounded-3xl p-8 relative overflow-hidden group h-[240px] flex flex-col justify-end">
+                            <div class="bg-[#0A0A0A] rounded-3xl p-8 relative overflow-hidden group min-h-[240px] flex flex-col justify-between">
                                 <div class="absolute inset-0 opacity-20">
                                     <img src="/generated/image-small-business-owner-smiling-while-revie-1765807956977-4.webp" alt="Owner" class="w-full h-full object-cover" />
                                 </div>
                                 <div class="absolute inset-0 bg-gradient-to-br from-cyan-900/60 to-black"></div>
                                 <div class="relative z-10">
-                                    <p class="text-white text-sm mb-2 font-medium">Market Plus</p>
-                                    <p class="text-gray-400 text-xs">Priča o uspjehu u maloprodaji</p>
+                                    <p class="text-[var(--color-brand-primary)] text-xs font-bold uppercase tracking-wider mb-3">Računovođa</p>
+                                    <p class="text-white text-lg font-semibold leading-snug">"Automatsko knjiženje uplata na osnovu poziva na broj mi je uštedilo 15 sati sedmično."</p>
                                 </div>
-                                <div class="relative z-10 flex justify-end">
-                                    <div class="w-10 h-10 rounded-full bg-white/10 backdrop-blur-md border border-white/20 flex items-center justify-center text-white group-hover:bg-white group-hover:text-black transition-colors">
-                                        <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
-                                    </div>
+                                <div class="relative z-10 flex items-center gap-2 text-xs text-gray-400">
+                                    <div class="w-1.5 h-1.5 rounded-full bg-[var(--color-brand-primary)]"></div>
+                                    <span>15h/sedmično uštede</span>
                                 </div>
                             </div>
                         </div>
