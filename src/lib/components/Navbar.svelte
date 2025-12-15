@@ -33,10 +33,10 @@
         </div>
 
         <!-- CTA -->
-        <a href="#demo" class="hidden md:flex items-center gap-1 text-sm font-medium text-white hover:text-[var(--color-brand-primary)] transition-colors">
-            Besplatna demo
+        <a href="/login" class="hidden md:flex items-center gap-1 text-sm font-medium text-white hover:text-[var(--color-brand-primary)] transition-colors">
+            Prijavi se
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M5 12h14M12 5l7 7-7 7"/>
+                <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4M10 17l5-5-5-5M13.8 12H3"/>
             </svg>
         </a>
         
